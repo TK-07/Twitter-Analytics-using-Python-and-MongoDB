@@ -1,1 +1,5 @@
 # Twitter-Analytics-using-Python-and-MongoDB
+
+NoSQL databases is also know as the Not Only SQL, which is a type of databases that posses BASE properties. These are alternative to relation databases that posses ACID properties. NoSQL are mostly implemented for larger data volumes. They are divided into the many categories depending on structure and implementation.
+
+Mongo DB is one of such database, which is a document oriented database, where the datas are stored in the form of json file, inside that data are stored in the form of  key value pair. The package we are using here is to perform analytics with the MongoDb by using the mongodb package. MongoDB can be used directly from the command line interface through commands, MongoDB can also be accessed effectively by using Python through the interface library called PyMongo, the PyMongo need to be installed and imported. The MongoDB querying is also same as SQL , where the collections of documents are manipulated and it can also be dowloaded as JSON file.
